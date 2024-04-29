@@ -1,12 +1,10 @@
 {
   "name": "@libtommy2024/dolore-praesentium-expedita-vitae",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
   "license": "MIT",
-  "dependencies": {
-  },
   "keywords": [
     "channel",
     "fullwidth",
