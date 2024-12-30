@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/dolore-praesentium-expedita-vitae",
-  "version": "8.24.215",
+  "version": "8.24.216",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -332,5 +332,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/dolore-praesentium-expedita-vitae/issues"
   },
-  "packageManager": "yarn@4.5.3"
+  "packageManager": "yarn@4.6.0"
 }
